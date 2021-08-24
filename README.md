@@ -1,44 +1,44 @@
 ## [Application/Project Name]
 
-#### Application Overview
+#### 1. Application Overview
 
-#### Application Features
+#### 2. Application Features
 
-#### CSS Framework
+#### 3. CSS Framework
 
-#### External Libraries
+#### 4. External Libraries
 
-#### Device support
+#### 5. Device support
 
-#### SEO
+#### 6. SEO
 
-#### Analytics tools And Monitoring
+#### 7. Analytics tools And Monitoring
    | Target | Tool |
    | ------ | ------ |
    | Performance |  |
    | Error Monitoring |  |
    | Traffic |  |
 
-#### Version Control and software management
+#### 8. Version Control and software management
 
-#### Internationalization and Localization
+#### 9. Internationalization and Localization
    | Target | Tool |
    | ------ | ------ |
    | Locals |  |
    | Translation tool |  |
 
-#### Testing
+#### 10. Testing
    | Target | Tool |
    | ------ | ------ |
    | Test Runner |  |
    | Test Framework |  |
    | Test Coverage |  |
 
-#### Communication
+#### 11. Communication
 
-#### Storage
+#### 12. Storage
 
-#### Style guide
+#### 13. Style guide
  
    | Target | Tool |
    | ------ | ------ |
