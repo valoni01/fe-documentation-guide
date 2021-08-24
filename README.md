@@ -1,4 +1,3 @@
-
 ## [Application/Project Name]
 
 #### Application Overview
@@ -14,27 +13,36 @@
 #### SEO
 
 #### Analytics tools And Monitoring
-   - Performance
-   - Errors Monitoring
-   - Traffic
+   | Target | Tool |
+   | ------ | ------ |
+   | Performance |  |
+   | Error Monitoring |  |
+   | Traffic |  |
 
 #### Version Control and software management
 
 #### Internationalization and Localization
-   - Supported local
-   - Transalation tools
+   | Target | Tool |
+   | ------ | ------ |
+   | Locals |  |
+   | Translation tool |  |
 
 #### Testing
-  - Test Runner
-  - Test Framework
-  - Test Coverage
+   | Target | Tool |
+   | ------ | ------ |
+   | Test Runner |  |
+   | Test Framework |  |
+   | Test Coverage |  |
 
 #### Communication
 
 #### Storage
 
 #### Style guide
-   - Lint
-   - CSS Methodology 
+ 
+   | Target | Tool |
+   | ------ | ------ |
+   | Lint |  |
+   | CSS Methodology |  |
 
 [Explanation of each fields](https://dev.to/valoni) 
