@@ -19,7 +19,7 @@
    | Error Monitoring |  |
    | Traffic |  |
 
-#### 8. Version Control and software management
+#### 8. Software Management Methodology
 
 #### 9. Internationalization and Localization
    | Target | Tool |
@@ -44,5 +44,9 @@
    | ------ | ------ |
    | Lint |  |
    | CSS Methodology |  |
+   
+### 13. Documentation
+
+### 14. Deployment
 
 [Explanation of each fields](https://dev.to/valoni) 
