@@ -13,6 +13,7 @@
 #### 6. SEO
 
 #### 7. Analytics tools And Monitoring
+
    | Target | Tool |
    | ------ | ------ |
    | Performance |  |
@@ -38,15 +39,35 @@
 
 #### 12. Storage
 
+   | Target | Tool |
+   | ------ | ------ |
+   | Local |  |
+   | Global |  |
+   | Assets | |
+
 #### 13. Style guide
  
    | Target | Tool |
    | ------ | ------ |
    | Lint |  |
    | CSS Methodology |  |
+   | CSS preproccessor | |
    
 ### 13. Documentation
 
+   | Target | Tool |
+   | ------ | ------ |
+   | Component Library | |
+   | Application |  |
+
 ### 14. Deployment
 
-[Explanation of each fields](https://dev.to/valoni) 
+   | Target | dev | staging | prod|
+   | ------ | ------ | ------ | ------ |
+   | Server |  | | |
+   | CI/CD |  | | |
+   | Repo | | | |
+   | Compilation | | | |
+   
+
+[Explanation and examples for each fields](https://dev.to/valoni) 
