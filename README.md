@@ -70,4 +70,4 @@
    | Compilation | | | |
    
 
-[Explanation and examples for each fields](https://dev.to/valoni) 
+[Explanation and examples for each fields](https://dev.to/valoni01/antenatal-for-ng-new-the-mother-of-all-angular-applications-both-dead-and-alive-5dlb) 
